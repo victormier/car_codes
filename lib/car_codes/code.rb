@@ -49,7 +49,7 @@ module CarCodes
 
     def ensure_validation
       unless valid?
-        raise StandardError, "Code is invalid"
+        raise ArgumentError, "Code is invalid"
       end
     end
   end
