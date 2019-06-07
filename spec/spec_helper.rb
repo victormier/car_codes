@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "car_codes"
+require "car_codes/ensure_validation_examples"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
