@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Tools for dealing with ACRISS Car Codes"
   spec.description   = "Tools for validating / humanizing / finding ACRISS Car Codes."
-  spec.homepage      = "https://github.com/victormier/car_codes"
+  spec.homepage      = "https://github.com/3mundi/car_codes"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
